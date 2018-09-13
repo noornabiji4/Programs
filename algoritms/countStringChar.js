@@ -15,4 +15,4 @@
         }
         return object;
     }
-    stringCount("hello");
+    stringCount("Hello i am Nabiji Noor");
